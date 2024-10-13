@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HijackSystem": {
+      "commandName": "Project",
+      "commandLineArgs": "127.0.0.1:1666 hzhong_DESKTOP-main hzhong d:\\WorkspaceTest\\Main\\HijackSystem\\AssemblyInfo.cs d:\\WorkspaceTest\\Main\\HieqwjackSystem\\AssemblyInfo.cs"
+    }
+  }
+}
