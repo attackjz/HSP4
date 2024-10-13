@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--perforce-xml-version=1.0-->
+<CustomToolDefList varName="customtooldeflist">
+ <CustomToolFolder>
+  <Name>HijackSystem</Name>
+  <CustomToolDefList>
+   <CustomToolDef>
+    <Definition>
+     <Name>HijackFile</Name>
+     <Command>D:\Work\HijackSystem\HijackSystem\HijackSystem.exe</Command>
+     <Arguments>$p $c $u %F</Arguments>
+     <Shortcut></Shortcut>
+    </Definition>
+    <AddToContext>true</AddToContext>
+   </CustomToolDef>
+   <CustomToolDef>
+    <Definition>
+     <Name>OpenHijackTool</Name>
+     <Command>D:\Work\HijackSystem\HijackSystem\HijackSystem.exe</Command>
+     <Arguments>$p $c $u</Arguments>
+     <Shortcut></Shortcut>
+    </Definition>
+    <AddToContext>true</AddToContext>
+   </CustomToolDef>
+  </CustomToolDefList>
+ </CustomToolFolder>
+</CustomToolDefList>
